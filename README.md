@@ -2,7 +2,9 @@
 
 This repository contains supplementary materials associated with the following peer-reviewed article:
 
-> Ko, Jiyun, and Jungmoo Woo. 2025. “The Effect of Postmaterialist Orientation on Attitudes toward Immigration.” *Journal of Contemporary Politics* 18(3): 69–105.
+> Ko, Jiyun, and Jungmoo Woo. 2025. [“The Effect of Postmaterialist Orientation on Attitudes toward Immigration.”](https://doi.org/10.52594/jcp.2025.12.18.3.69) *Journal of Contemporary Politics* 18(3): 69–105.
+
+**Published article:** [DOI](https://doi.org/10.52594/jcp.2025.12.18.3.69) · [Dongguk ScholarWorks](https://scholarworks.dongguk.edu/item/8cd0d3c8-5531-4d0d-8901-e4328e2b7b33)
 
 ## Research question
 
